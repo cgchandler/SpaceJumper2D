@@ -25,6 +25,7 @@ https://www.cehost.com/spacejumper2d/
 - Player movement and jump physics tuning
 - Collision detection and environment interaction
 - Scene management and level layout
+- Building and running as a Windows executable
 - Building and deploying a **WebGL** game for browser play
 
 ---
