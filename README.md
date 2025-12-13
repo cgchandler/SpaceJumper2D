@@ -1,6 +1,6 @@
 # SpaceJumper2D
 
-**SpaceJumper2D** is a 2D Unity arcade platformer focused on momentum, timing, and player control. The game challenges players to navigate a space-themed environment using physics-based movement and carefully timed jumps. This game was created as an assignment for the University of Cumberlands Course ITSS-333 Video Game Programming, focused on the 2D core game mechanics.
+**SpaceJumper2D** is a 2D Unity arcade platformer focused on momentum, timing, and player control. The game challenges players to navigate a space-themed environment using physics-based movement and carefully timed jumps. This game was created as an assignment for the University of the Cumberlands Course ITSS-333 Video Game Programming, focused on the 2D core game mechanics.
 
 ---
 
